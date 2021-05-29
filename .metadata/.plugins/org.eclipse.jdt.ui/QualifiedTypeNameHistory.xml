@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.eduit.clase1.entidades.JefeEmpleado"/>
+    <fullyQualifiedTypeName name="com.eduit.clase1.entidades.SecretarioEmpleado"/>
+    <fullyQualifiedTypeName name="com.eduit.clase1.entidades.DirectorEmpleado"/>
+    <fullyQualifiedTypeName name="com.eduit.clase1.interfaces.CreacionInformes"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.eduit.clase1.interfaces.IEmpleados"/>
+</qualifiedTypeNameHistroy>
